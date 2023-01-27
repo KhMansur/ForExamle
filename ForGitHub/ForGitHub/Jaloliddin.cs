@@ -9,5 +9,6 @@ namespace ForGitHub
     public class Jaloliddin
     {
         public int MyProperty { get; set; }
+        public Jaloliddin() { }
     }
 }
