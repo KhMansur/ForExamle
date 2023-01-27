@@ -8,5 +8,6 @@ namespace ForGitHub
 {
     public class Mansur
     {
+        public int rrrr { get; set; }
     }
 }
