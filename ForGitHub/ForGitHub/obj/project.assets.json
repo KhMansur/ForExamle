@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SWIFT 3\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SWIFT 3\\Desktop\\Github\\ForGitHub\\ForGitHub\\ForGitHub.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\github\\New folder\\ForGitHub\\ForGitHub\\ForGitHub.csproj",
       "projectName": "ForGitHub",
-      "projectPath": "C:\\Users\\SWIFT 3\\Desktop\\Github\\ForGitHub\\ForGitHub\\ForGitHub.csproj",
-      "packagesPath": "C:\\Users\\SWIFT 3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SWIFT 3\\Desktop\\Github\\ForGitHub\\ForGitHub\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\github\\New folder\\ForGitHub\\ForGitHub\\ForGitHub.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\github\\New folder\\ForGitHub\\ForGitHub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\SWIFT 3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
