@@ -11,7 +11,7 @@ namespace ForGitHub
         public int MyProperty { get; set; }
         public Murod()
         {
-
+            Console.WriteLine("Nimadir");
         }
     }
 }
